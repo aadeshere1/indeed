@@ -3,7 +3,7 @@ GEM
   specs:
     guess_html_encoding (0.0.11)
     mini_portile2 (2.4.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     ruby-readability (0.7.0)
       guess_html_encoding (>= 0.0.4)
